@@ -5,6 +5,5 @@ function solution(n, numlist) {
             answer.push(numlist[i])
         }
     }
-    console.log(answer)
     return answer;
 }
